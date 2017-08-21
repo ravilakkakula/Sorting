@@ -18,7 +18,7 @@ public class NewSort {
 	}
 	public static void main(String[] args)
     {
-        int arr[] = {64, 34, 25, 12, 22, 11, 90};
+        int arr[] = {64, 34, 2, 12, 22, 11, 90};
       
         Bubblesort(arr, arr.length);
          
